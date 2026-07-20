@@ -1,52 +1,13 @@
 # Projeto-Power-BI---Connecta-Telecom
-Uma projeto com dados fictícios de uma empresa de Telecomunicações, com o objetivo de praticar e consolidar os recursos do Microsoft Power BI.
 
-Dicionário de Dados: Connecta Telecom
+Este é um projeto pessoal com dados fictícios de um ecossistema de uma empresa de Telecomunicações, com o objetivo de praticar e consolidar os meus conhecimentos no Microsoft Power BI.
 
-Tabelas de densão (Contexto)
-Organizadores do modelo que filtram os eventos.
+Título do Projeto: Simulação de uma empresa de Telecomunicações.
 
+O Desafio de Negócio: O objetivo foi simular o ecossistema de uma operadora de telecomunicações.
 
-Tabela,Descrição,Chaves e Campos Principais
+Tecnologia utilizada: Python/Pandas/IA/Google Colab para geração do dataset de simulação, Power BI.
 
-dCalendar,Calendário corporativo.,"Date, Year, Month, IsHoliday, IsBlackFriday, IsSummer, IsBackToSchool"
+Arquitetura de Dados: Modelação Star Schema (Fatos e Dimensões).
 
-dCustomers,Perfil demográfico e de valor do cliente.,"CustomerID, Segmento, Sexo, Idade, Distrito, CanalPreferencial"
-
-dProducts,"Catálogo de serviços (Móvel, Fibra, TV).","ProductID, Nome, Categoria, PrecoBase, MargemEstimada, Tecnologia"
-
-dStores,Pontos de venda físicos.,"StoreID, Nome, Tipo"
-
-dRegions,Distribuição geográfica e peso populacional.,"RegionID, Distrito, Weight"
-
-dCallCenters,Centros de atendento remoto.,"CallCenterID, Localização, Tipo"
-
-dTechCenters,Polos de suporte e manutenção de rede.,"TechCenterID, RegiaoPrincipal"
-
-dChannels,Canais de aquisição e suporte.,"ChannelID, Canal (Ex: Loja Física, Online)"
-
-dPaymentMethods,Formas de pagamento aceites.,"PayMethodID, Método"
-
-dNetworkTechnology,Infraestruturas de rede disponíveis.,"NetID, Tecnologia (Ex: 5G, FTTH)"
-
-dCampaigns,Campanhas de Marketing ativas.,"CampID, Nome, CustoEstimado"
-
-
-Tabelas de fatos (Eventos de Negócio)
-Registos históricos e quantitativos das operações.
-
-Tabela,Descrição,Métricas e Chaves Estrangeiras
-
-fSubscriptions,Registo de novos contratos e fidelizações.,"SubscriptionID, CustomerID, ProductID, StartDate, EndDate, FidelizacaoMeses"
-
-fBilling,Faturação mensal e estado de cobrança.,"BillID, SubscriptionID, CustomerID, BillDate, ValorCobrado, StatusPagamento"
-
-fUsage,Consumo diário de rede (Dados e Voz).,"UsageID, CustomerID, Date, DadosConsumidosGB, MinutosVoz"
-
-fTickets,Registo de apoio ao cliente e falhas.,"TicketID, CustomerID, Date, Motivo, TempoResolucaoHoras, FCR (First Call Resolution)"
-
-fNPS,Inquéritos de satisfação do cliente.,"CustomerID, TicketID, Date, NPS_Score, Categoria (Promotor/Detrator)"
-
-fChurn,Registo de cancelamentos de serviço.,"ChurnID, CustomerID, Date, Motivo"
-
-fIncidents,Quebras de serviço na infraestrutura.,"IncidentID, Date, NetID, RegionID, TempoIndisponibilidadeMin, ClientesAfetados"
+Principais Insights: O ecossistema de uma empresa de telecomunicações é dos mais complexos e um dos que mais evidenciam a importância de um analista de dados e da inteligência das informações. Existem diversos tipos de KPIs e todos tem a sua importância, entretanto, o meu objetivo aqui foi destacar os principais motivos de cancelamento e o prejuízo. Com as devidas informações, a empresa poderá direcionar melhor os seus recursos, "estancar a sangria" e continuar a crescer com consistência.
