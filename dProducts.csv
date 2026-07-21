@@ -1,0 +1,41 @@
+ProductID,Nome,Categoria,PrecoBase,MargemEstimada,Tecnologia
+PRD001,Fibra 1Gbps v1,Fibra,44.15,0.6,Cloud
+PRD002,Fibra 500Mbps v1,Fibra,37.75,0.55,Digital
+PRD003,Fibra + TV 150C v1,Pacotes,52.21,0.65,4G
+PRD004,Fibra + TV + Móvel v1,Pacotes,74.42,0.7,Fibra
+PRD005,Móvel 5G Ilimitado v1,Móvel,31.38,0.8,Cloud
+PRD006,Móvel 20GB v1,Móvel,13.58,0.75,5G
+PRD007,Pré-Pago 5GB v1,Móvel,10.27,0.85,Cloud
+PRD008,Banda Larga Móvel v1,Internet Móvel,17.67,0.6,5G
+PRD009,TV Premium (Sport TV) v1,Serviços TV,30.5,0.3,5G
+PRD010,Netflix Premium v1,Streaming,16.29,0.15,Cloud
+PRD011,Corporate Fibra Dedicada v1,Empresarial,210.28,0.85,Digital
+PRD012,Central Telefónica Cloud v1,Empresarial,51.32,0.9,5G
+PRD013,Fibra 1Gbps v2,Fibra,47.69,0.6,5G
+PRD014,Fibra 500Mbps v2,Fibra,31.23,0.55,Cloud
+PRD015,Fibra + TV 150C v2,Pacotes,49.95,0.65,5G
+PRD016,Fibra + TV + Móvel v2,Pacotes,71.0,0.7,5G
+PRD017,Móvel 5G Ilimitado v2,Móvel,29.04,0.8,Cloud
+PRD018,Móvel 20GB v2,Móvel,14.15,0.75,Cloud
+PRD019,Pré-Pago 5GB v2,Móvel,9.55,0.85,Fibra
+PRD020,Banda Larga Móvel v2,Internet Móvel,19.14,0.6,Digital
+PRD021,TV Premium (Sport TV) v2,Serviços TV,28.91,0.3,Digital
+PRD022,Netflix Premium v2,Streaming,15.83,0.15,5G
+PRD023,Corporate Fibra Dedicada v2,Empresarial,211.18,0.85,Digital
+PRD024,Central Telefónica Cloud v2,Empresarial,54.3,0.9,5G
+PRD025,Fibra 1Gbps v3,Fibra,45.84,0.6,Fibra
+PRD026,Fibra 500Mbps v3,Fibra,33.12,0.55,Cloud
+PRD027,Fibra + TV 150C v3,Pacotes,65.24,0.65,Cloud
+PRD028,Fibra + TV + Móvel v3,Pacotes,80.05,0.7,Cloud
+PRD029,Móvel 5G Ilimitado v3,Móvel,33.28,0.8,Digital
+PRD030,Móvel 20GB v3,Móvel,17.5,0.75,Fibra
+PRD031,Pré-Pago 5GB v3,Móvel,10.66,0.85,Digital
+PRD032,Banda Larga Móvel v3,Internet Móvel,18.66,0.6,Digital
+PRD033,TV Premium (Sport TV) v3,Serviços TV,29.93,0.3,Fibra
+PRD034,Netflix Premium v3,Streaming,16.21,0.15,Fibra
+PRD035,Corporate Fibra Dedicada v3,Empresarial,223.83,0.85,Fibra
+PRD036,Central Telefónica Cloud v3,Empresarial,51.07,0.9,Fibra
+PRD037,Fibra 1Gbps v4,Fibra,39.24,0.6,Cloud
+PRD038,Fibra 500Mbps v4,Fibra,30.96,0.55,4G
+PRD039,Fibra + TV 150C v4,Pacotes,49.8,0.65,4G
+PRD040,Fibra + TV + Móvel v4,Pacotes,67.23,0.7,Fibra

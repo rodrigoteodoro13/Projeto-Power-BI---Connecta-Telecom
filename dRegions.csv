@@ -1,0 +1,21 @@
+RegionID,Distrito,Weight
+REG00,Lisboa,0.25
+REG01,Porto,0.2
+REG02,Braga,0.1
+REG03,Setúbal,0.08
+REG04,Aveiro,0.06
+REG05,Faro,0.05
+REG06,Leiria,0.04
+REG07,Coimbra,0.04
+REG08,Santarém,0.03
+REG09,Viseu,0.03
+REG10,Madeira,0.02
+REG11,Açores,0.02
+REG12,Viana do Castelo,0.02
+REG13,Vila Real,0.01
+REG14,Castelo Branco,0.01
+REG15,Évora,0.01
+REG16,Guarda,0.01
+REG17,Beja,0.01
+REG18,Bragança,0.005
+REG19,Portalegre,0.005

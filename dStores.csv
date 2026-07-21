@@ -1,0 +1,41 @@
+StoreID,Nome,Tipo
+ST001,Connecta Santarém 1,Loja Própria
+ST002,Connecta Lisboa 2,Franchise
+ST003,Connecta Aveiro 3,Quiosque
+ST004,Connecta Lisboa 4,Quiosque
+ST005,Connecta Lisboa 5,Loja Própria
+ST006,Connecta Lisboa 6,Loja Própria
+ST007,Connecta Coimbra 7,Loja Própria
+ST008,Connecta Santarém 8,Franchise
+ST009,Connecta Braga 9,Quiosque
+ST010,Connecta Santarém 10,Quiosque
+ST011,Connecta Faro 11,Loja Própria
+ST012,Connecta Santarém 12,Franchise
+ST013,Connecta Setúbal 13,Franchise
+ST014,Connecta Viana do Castelo 14,Loja Própria
+ST015,Connecta Aveiro 15,Loja Própria
+ST016,Connecta Porto 16,Loja Própria
+ST017,Connecta Lisboa 17,Loja Própria
+ST018,Connecta Leiria 18,Quiosque
+ST019,Connecta Viana do Castelo 19,Loja Própria
+ST020,Connecta Faro 20,Loja Própria
+ST021,Connecta Porto 21,Quiosque
+ST022,Connecta Lisboa 22,Loja Própria
+ST023,Connecta Viseu 23,Loja Própria
+ST024,Connecta Porto 24,Loja Própria
+ST025,Connecta Leiria 25,Loja Própria
+ST026,Connecta Açores 26,Quiosque
+ST027,Connecta Braga 27,Loja Própria
+ST028,Connecta Aveiro 28,Quiosque
+ST029,Connecta Lisboa 29,Quiosque
+ST030,Connecta Setúbal 30,Loja Própria
+ST031,Connecta Coimbra 31,Quiosque
+ST032,Connecta Porto 32,Loja Própria
+ST033,Connecta Porto 33,Loja Própria
+ST034,Connecta Faro 34,Franchise
+ST035,Connecta Porto 35,Franchise
+ST036,Connecta Leiria 36,Franchise
+ST037,Connecta Lisboa 37,Loja Própria
+ST038,Connecta Coimbra 38,Loja Própria
+ST039,Connecta Faro 39,Quiosque
+ST040,Connecta Lisboa 40,Loja Própria
